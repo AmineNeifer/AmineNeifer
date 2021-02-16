@@ -12,7 +12,7 @@
 
 ## [![Neifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineNeifer&theme=dark&hide=prs,issues,contribs)](https://github.com/AmineNeifer/AmineNeifer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact)](https://github.com/AmineNeifer/AmineNeifer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact&theme=dark)](https://github.com/AmineNeifer/AmineNeifer)
 [![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
 
