@@ -5,6 +5,9 @@
 I am a Business Computing @ Higher School of Digital Economy Majoring in Business Intelligence and Full Stack Software Engineering Student @ Holberton School specialized in Machine Learning. I like maths and problem solving.
 Currently learning Reinforcement learning using Python
 
+- 🔭 I’m currently working on Reinforcement Learning projects
+- 🌱 I’m currently learning Java & php programming languages
+
 <div align="center">
 <a href="https://www.linkedin.com/in/amine-neifer-907050194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
 <a href="https://twitter.com/AmineNeifer/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp;
@@ -34,6 +37,8 @@ Skills:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
 
 </div>
+
+## ✨ Have a nice Day :) ✨
 
 <!--
 **AmineNeifer/AmineNeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
