@@ -9,6 +9,7 @@ Currently learning Reinforcement learning using Python
 <a href="https://www.linkedin.com/in/amine-neifer-907050194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
 <a href="https://twitter.com/AmineNeifer/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp;
 </div>
+
 ---
 
 Skills:
