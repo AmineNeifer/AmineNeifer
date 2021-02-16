@@ -10,13 +10,15 @@
 </div>
 <div align="center">
 
-## [![Neifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineNeifer)](https://github.com/AmineNeifer/AmineNeifer)
+## [![Neifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineNeifer?theme=dark&hide=prs,issues,contribs)](https://github.com/AmineNeifer/AmineNeifer)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact)](https://github.com/AmineNeifer/AmineNeifer)
 [![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
 
 </div>
 </div>
+
 <!--
 **AmineNeifer/AmineNeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+-->
