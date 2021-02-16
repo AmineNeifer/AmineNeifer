@@ -36,9 +36,11 @@ Skills:
 [![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
 
+## ✨ Have a nice Day :) ✨
+
 </div>
 
-## ✨ Have a nice Day :) ✨
+
 
 <!--
 **AmineNeifer/AmineNeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
