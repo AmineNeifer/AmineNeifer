@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/amine-neifer-907050194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
+<a href="https://www.instagram.com/hamineneifer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> &nbsp; 
+<a href="https://twitter.com/AmineNeifer/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp; 
+<a href="https://www.facebook.com/people/Amine-Neifer/100009988246593" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
 <!--
 **AmineNeifer/AmineNeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
