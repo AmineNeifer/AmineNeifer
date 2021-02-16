@@ -14,10 +14,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact&theme=radical)](https://github.com/AmineNeifer/AmineNeifer)
 </div>
+<div align="center">
+
 [![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
 
 
+</div>
 </div>
 
 <!--
