@@ -1,7 +1,58 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio responsive complete
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
+### Hello there! 👋
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+---
+
+I am a Business Computing @ Higher School of Digital Economy Majoring in Business Intelligence and Full Stack Software Engineering Student @ Holberton School specialized in Machine Learning. I like maths and problem solving.
+Currently learning Reinforcement learning using Python
+
+- 🔭 I’m currently working on Reinforcement Learning projects
+- 🌱 I’m currently learning Java & php programming languages
+
+<div align="center">
+<a href="https://www.linkedin.com/in/amine-neifer-907050194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
+<a href="https://twitter.com/AmineNeifer/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp;
+</div>
+
+---
+
+Skills:
+
+- Machine Learning
+- Linux
+- Web Scraping
+- Data Structures & Algorithms
+
+---
+
+<div align="center">
+
+## [![Neifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineNeifer&theme=radical&hide=prs,issues,contribs)](https://github.com/AmineNeifer/AmineNeifer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact&theme=radical)](https://github.com/AmineNeifer/AmineNeifer)
+
+</div>
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
+
+## ✨ Have a nice Day :) ✨
+
+</div>
+
+
+
+<!--
+**AmineNeifer/AmineNeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
