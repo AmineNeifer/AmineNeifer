@@ -3,10 +3,9 @@
 ---
 
 I am a Business Computing @ Higher School of Digital Economy Majoring in Business Intelligence and Full Stack Software Engineering Student @ Holberton School specialized in Machine Learning. I like maths and problem solving. <br />
-Currently learning some ReactJs to get my feet wet with frontend development
 
-- 🔭 I’m currently working on Reinforcement Learning projects
-- 🌱 I’m currently learning Java & php programming languages
+- 🔭 I’m currently working on Portfolio Project in Holberton School. I am graduating soon! Yaaay!
+- 🌱 I’m currently learning ReactJs feet wet with frontend development
 
 <div align="center">
 <a href="https://www.linkedin.com/in/amine-neifer-907050194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
@@ -33,7 +32,7 @@ Skills:
 </div>
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
+![HitCount](http://hits.dwyl.com/AmineNeifer/AmineNeifer.svg)](http://hits.dwyl.com/AmineNeifer/AmineNeifer)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
 
 ## ✨ Have a nice Day :) ✨
