@@ -2,8 +2,8 @@
 
 ---
 
-I am a Business Computing @ Higher School of Digital Economy Majoring in Business Intelligence and Full Stack Software Engineering Student @ Holberton School specialized in Machine Learning. I like maths and problem solving.
-Currently learning Reinforcement learning using Python
+I am a Business Computing @ Higher School of Digital Economy Majoring in Business Intelligence and Full Stack Software Engineering Student @ Holberton School specialized in Machine Learning. I like maths and problem solving. <br />
+Currently learning some ReactJs to get my feet wet with frontend development
 
 - 🔭 I’m currently working on Reinforcement Learning projects
 - 🌱 I’m currently learning Java & php programming languages
