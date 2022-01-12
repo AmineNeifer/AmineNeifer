@@ -2,7 +2,11 @@
 
 ---
 
-I am a Holberton School graduate, and a Business Computing student @ Higher School of Digital Economy Majoring in Business Intelligence. I like maths and problem solving. <br />
+I am Amine Neifer, welcome to my humble Github Profile!
+I am a Holberton School graduate
+Currently a Business Computing student @ Higher School of Digital Economy Majoring in Business Intelligence
+I like mathematics, problem solving and developing fast efficient microservices.
+In my free time, I like to play guitar, explore new musicand read articles about Technologies. <br />
 
 
 <div align="center">
