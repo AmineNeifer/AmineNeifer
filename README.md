@@ -23,22 +23,6 @@ Skills:
 
 ---
 
-<div align="center">
-
-## [![Neifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineNeifer&theme=radical&hide=prs,issues,contribs)](https://github.com/AmineNeifer/AmineNeifer)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact&theme=radical)](https://github.com/AmineNeifer/AmineNeifer)
-
-</div>
-<div align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AmineNeifer.AmineNeifer)
-
-## ✨ Have a nice Day :) ✨
-
-</div>
-
-
 
 <!--
 **AmineNeifer/AmineNeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
