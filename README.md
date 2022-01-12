@@ -2,10 +2,8 @@
 
 ---
 
-I am a Business Computing @ Higher School of Digital Economy Majoring in Business Intelligence and Full Stack Software Engineering Student @ Holberton School specialized in Machine Learning. I like maths and problem solving. <br />
+I am a Holberton School graduate, and a Business Computing student @ Higher School of Digital Economy Majoring in Business Intelligence. I like maths and problem solving. <br />
 
-- 🔭 I’m currently working on Portfolio Project in Holberton School. I am graduating soon! Yaaay!
-- 🌱 I’m currently learning ReactJs feet wet with frontend development
 
 <div align="center">
 <a href="https://www.linkedin.com/in/amine-neifer-907050194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
@@ -14,12 +12,14 @@ I am a Business Computing @ Higher School of Digital Economy Majoring in Busines
 
 ---
 
-Skills:
+Technologies I like to work with:
 
-- Machine Learning
-- Linux
-- Web Scraping
-- Data Structures & Algorithms
+- Linux - Bash scripting
+- Python - web scraping, ML, DL, Data Analysis...
+- Java
+- Kotlin
+- Go programming language - micro-services (gRPC)
+- C programming language
 
 ---
 
