@@ -3,10 +3,22 @@
 ---
 
 I am Amine Neifer, welcome to my humble Github Profile!
-I am a Holberton School graduate
-Currently a Business Computing student @ Higher School of Digital Economy Majoring in Business Intelligence
-I like mathematics, problem solving and developing fast efficient microservices.
-In my free time, I like to play guitar, explore new musicand read articles about Technologies. <br />
+
+- ✅ Holberton School graduate
+
+- 👨‍🎓 Graduating soon from Higher School of Digital Economy Majoring in Business Intelligence
+
+- 🤔 Like mathematics, problem solving and obsessed about clean code and developing fast efficient microservices.
+
+- 🌱 Currently learning Golang.
+
+- ✨ Aim to become an expert in Golang with its concurrency and its different Libraries & Frameworks. (Currently checking gocql & Gin)
+
+- 😄 My friends call me: Neifer, Neiferanti, Neifertiti...
+
+- ⚽ In my free time, I like to play guitar, explore new music and read articles/books about Technologies.
+
+- 📫 You can reach me throught this email address: amineneife2000@gmail.com
 
 
 <div align="center">
@@ -16,14 +28,15 @@ In my free time, I like to play guitar, explore new musicand read articles about
 
 ---
 
-Technologies I like to work with:
+Technologies I like to work with (ordered by level of proficiency):
 
-- Linux - Bash scripting
 - Python - web scraping, ML, DL, Data Analysis...
-- Java
-- Kotlin
 - Go programming language - micro-services (gRPC)
+- Java
 - C programming language
+- Linux - Bash scripting
+- Kotlin
+
 
 ---
 <div align="center">
