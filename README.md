@@ -18,7 +18,7 @@ I am Amine Neifer, welcome to my humble Github Profile!
 
 - ⚽ In my free time, I like to play guitar, explore new music and read articles/books about Technologies.
 
-- 📫 You can reach me throught this email address: amineneife2000@gmail.com
+- 📫 You can reach me throught this email address: amineneifer2000@gmail.com
 
 
 <div align="center">
